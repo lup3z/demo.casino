@@ -1,0 +1,18 @@
+{
+  "name": "paramo-technologies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open --browser chrome --e2e"
+  },
+  "author": "lucia aznar",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.6.0",
+    "faker": "^6.6.6"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.4.0"
+  }
+}
