@@ -1,7 +1,7 @@
-# OMS Front Test Automation
+# Front Test Automation
 
 Framework en node y cypress para la ejecución de test automáticos de frontend 
-de OMS y CCM.
+de demo.casino
 
 # Instalar Node:
 
