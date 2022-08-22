@@ -6,7 +6,7 @@ de demo.casino
 # Instalar Node:
 
 ```sh
-$ brew install node
+$ npm install node
 
 ```
 
